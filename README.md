@@ -41,7 +41,7 @@ Deployment:
 
 To run from source code:
 
-•	git clone https://github.com/safwanunited/OnlineBookStoreApplication.git
+•	git clone https://github.com/Lakshmi-Mahendra-babu/Online-Book-Store-Application.git
 •	mvn package
 •	java -jar target/<jarfilename>.jar
 
